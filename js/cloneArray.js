@@ -2,6 +2,6 @@ function cloneArray(array) {
     return [...array]
 }
 
-export {
-    cloneArray
+module.exports = {
+    cloneArray: cloneArray
 }
