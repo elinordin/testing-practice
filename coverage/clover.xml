@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1619512195318" clover="3.2.0">
-  <project timestamp="1619512195319" name="All files">
-    <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3" elements="8" coveredelements="8" complexity="0" loc="5" ncloc="5" packages="1" files="2" classes="2"/>
-    <file name="cloneArray.js" path="C:\Users\eline\OneDrive\Dokument\Web Development\Udemy and course projects\intro-to-testing\js\cloneArray.js">
-      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+<coverage generated="1619683069521" clover="3.2.0">
+  <project timestamp="1619683069521" name="All files">
+    <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3" elements="8" coveredelements="8" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+    <file name="functions.js" path="C:\Users\eline\OneDrive\Dokument\Web Development\Udemy and course projects\intro-to-testing\functions.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
       <line num="2" count="2" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
-    </file>
-    <file name="math.js" path="C:\Users\eline\OneDrive\Dokument\Web Development\Udemy and course projects\intro-to-testing\js\math.js">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
-      <line num="2" count="1" type="stmt"/>
-      <line num="6" count="1" type="stmt"/>
-      <line num="9" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
